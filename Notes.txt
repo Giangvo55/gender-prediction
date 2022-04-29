@@ -1,0 +1,2 @@
+- Mô hình đạt độ chính xác 95% 
+- Hầu như các tên Văn, Thị đã dự đoán chính xác giới tính
